@@ -1,6 +1,5 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/verikafasi/verikafasi-posts/master)
-Merhabalar,
 
 Yazılarımızı yazmakta kullandığımız scripleri burada paylaşıyoruz.
 

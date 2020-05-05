@@ -1,8 +1,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/verikafasi/verikafasi-posts/master)
-
 Merhabalar,
 
-verikafasi.org'daki yazılarımızı yazmakta kullandığımız scripleri burada paylaşıyoruz.
+Yazılarımızı yazmakta kullandığımız scripleri burada paylaşıyoruz.
 
-python için **py36** yı R için **R** kernellarını kullanmanız gerekmektedir.
+Bazen python bazen R kullandığımız oluyor. Defterlerde kullandığımız  [Dockerfile](https://github.com/verikafasi/verikafasi-notebook)'ı paylaştık. Python için **py36** yı R için **R** kernellarını kullanmanız gerekmektedir.
